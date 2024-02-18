@@ -1,12 +1,12 @@
 # Paystack Payment Integration with Next.js
 
-Welcome to the comprehensive guide on integrating Paystack payments into your Next.js application. This step-by-step guide ensures a smooth and professional payment experience for your users.
+This nextjs application shows you a simple way of integrating paystack payments to your nextjs application.
 
 ## Getting Started
 
 1. **Clone the Repository:**
    ```
-   git clone [https://github.com/justinelut/nextpaystack]
+   git clone https://github.com/justinelut/nextpaystack
    ```
 
 2. **Obtain Paystack Secret Key:**
@@ -37,8 +37,13 @@ Follow me on Twitter: [Justine Gichana](https://twitter.com/justinegichana7)
 
 My personal portfolio: [Justine Gichana's Portfolio](https://me.pixelayout.site)
 
+
+## Read the tutorial
+- [Paystack Nextjs integration tutorial](https://pixelayout.site/adding-payments-to-your-next-js-application-with-paystack-payment-provider-in-kenya/)
+
 ## Author
 
-This guide, aims to elevate your Paystack payment integration with Next.js. Your feedback and contributions are valued as we strive for excellence in the developer community.
+This guide, aims at helping you integrate Paystack payment into your Next.js application. Your feedback and contributions are valued as we strive for excellence in the developer community.
+
 
 Happy coding! 😊
