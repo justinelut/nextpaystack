@@ -44,6 +44,3 @@ My personal portfolio: [Justine Gichana's Portfolio](https://me.pixelayout.site)
 ## Author
 
 This guide, aims at helping you integrate Paystack payment into your Next.js application. Your feedback and contributions are valued as we strive for excellence in the developer community.
-
-
-Happy coding! 😊
